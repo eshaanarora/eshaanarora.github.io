@@ -1,0 +1,44 @@
+h1 {
+    color: blue;
+    text-align: center;
+    text-shadow: 4px 4px 4px gold;
+}
+
+h2{
+    color: purple;
+    text-align: center;
+    border-color: purple;
+    border-style: dashed;
+    border-width: 6px;
+}
+
+p{
+    color: orange;
+}
+
+a{
+    color: green;
+}
+
+#p1{
+    color: silver;
+    text-align: center;
+    font-style: oblique;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.tacos{
+    font-size: 72px;
+}
+
+img{
+    height: 100px;
+}
+
+#za{
+    height:500px;
+}
+
+body{
+    background-image: url(Interlaken.jpg);
+}
