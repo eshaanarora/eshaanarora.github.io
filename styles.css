@@ -1,44 +1,12 @@
-h1 {
-    color: blue;
-    text-align: center;
-    text-shadow: 4px 4px 4px gold;
+h5{
+    color: rgba(119, 8, 141, 0.842);
+    font-family: 'Lucida Sans';
+    font-size: 100px;
 }
 
-h2{
-    color: purple;
-    text-align: center;
-    border-color: purple;
-    border-style: dashed;
-    border-width: 6px;
-}
-
-p{
-    color: orange;
-}
-
-a{
-    color: green;
-}
-
-#p1{
-    color: silver;
-    text-align: center;
-    font-style: oblique;
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
-}
-
-.tacos{
-    font-size: 72px;
-}
-
-img{
-    height: 100px;
-}
-
-#za{
-    height:500px;
-}
-
-body{
-    background-image: url(Interlaken.jpg);
+.jumbotron{
+    background-image: url(Kellogg.jpg);
+    background-attachment: fixed;
+    background-size: cover;
+    height: 1000px;
 }
